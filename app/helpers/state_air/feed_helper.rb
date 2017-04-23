@@ -1,0 +1,2 @@
+module StateAir::FeedHelper
+end
